@@ -19,4 +19,10 @@ Optimize Campaign Strategies: Apply successful strategies from high-performing c
 Enhance Adviser Performance: Provide targeted training and support for advisers to boost conversion rates.
 Improve Reporting and Monitoring: Implement a robust system for regular performance tracking and detailed analytics to tailor future campaigns and training initiatives.
 This project has been an incredible learning experience, allowing me to leverage my data analysis skills to drive actionable insights and strategic recommendations for Unicaf.
+Contact
+For any queries or further information, please contact:
 
+Name: Abdellatif Nagy
+Whatsapp: +201122612595
+Email: abdo.nagy1762@gmail.com
+LinkedIn: https://www.linkedin.com/in/abdellatif-nagy-24b95226a/
